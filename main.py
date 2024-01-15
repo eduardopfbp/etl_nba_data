@@ -1,4 +1,4 @@
-from def_etl import extract, load, concatenar
+from def_etl import extract, load, concatenate
 
 # STEP 1 - EXTRACT THE DATA
 url_nba = "https://www.basketball-reference.com/friv/dailyleaders.fcgi?month=01&day=13&year=2024&type=all"
